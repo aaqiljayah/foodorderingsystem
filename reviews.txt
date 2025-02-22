@@ -1,0 +1,6 @@
+93a3eccd,51595ba0-e54c-44e8-aec5-18391e8e254b,Good food,5
+440c486f,51595ba0-e54c-44e8-aec5-18391e8e254b,Good customer,5
+93a3eccd,0b2c9a59-410b-49c3-9d0e-c1e2c53fdabe,good,4
+3f211cc9,242f9b2d-a5f3-4480-ae4a-e7ac10e98a51,Good food, great service,5
+440c486f,242f9b2d-a5f3-4480-ae4a-e7ac10e98a51,Great customer,5
+440c486f,zephwy,Loser,2

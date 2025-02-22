@@ -1,0 +1,5 @@
+440c486f,meal,10.0
+440c486f,bucket10pc,20.0
+440c486f,wings,8.99
+440c486f,drumstick,5.99
+440c486f,combo,100.0

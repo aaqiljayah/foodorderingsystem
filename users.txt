@@ -1,0 +1,9 @@
+b62971d4,admin,Admin,admin123
+93a3eccd,john,Customer,john
+440c486f,kfc,Vendor,kfc
+068b77be,aj,DeliveryRunner,aj
+b11c5dec,sam,Customer,sam
+fd1b3ba0,ja,DeliveryRunner,ja
+3f211cc9,adam,Customer,adam
+a63492f2,asd,DeliveryRunner,asd
+9d12bd41,zephwy,Customer,zephwy
