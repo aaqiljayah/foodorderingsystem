@@ -1,6 +1,6 @@
 # Food Ordering System
 
-Welcome to the **Food Ordering System**! This is a Java-based application designed to simulate a food delivery platform where users can register as customers, vendors, delivery runners, or administrators. The system allows customers to place orders, vendors to manage menus and orders, delivery runners to handle deliveries, and administrators to manage user accounts and system operations.
+Welcome to my **Food Ordering System**! This is a Java-based application designed to simulate a food delivery platform where users can register as customers, vendors, delivery runners, or administrators. The system allows customers to place orders, vendors to manage menus and orders, delivery runners to handle deliveries, and administrators to manage user accounts and system operations.
 
 ---
 
