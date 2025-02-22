@@ -150,7 +150,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Contact
-For questions or feedback, please reach out to [your-email@example.com].
+For questions or feedback, please reach out to aaqiljayah@gmail.com
 
 ---
 
